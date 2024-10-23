@@ -43,10 +43,10 @@
 
 2. **Iniciar Repositorio:**
     
-    npm start
-    /backend npm start
+  - npm start
+  - /backend npm start
 
 3. **Ingresar la API de Open IA**
-    En el archivo .env 
-    REACT_APP_OPENAI_API_KEY="clave-API sin comillas"
+    - En el archivo .env en la raiz
+    - REACT_APP_OPENAI_API_KEY="clave-API sin comillas"
 
