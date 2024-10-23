@@ -47,6 +47,7 @@
   - /backend npm start
 
 3. **Ingresar la API de Open IA**
-    - En el archivo .env en la raiz
+    En el archivo .env en la raiz y en backend (añadir puerto)
     - REACT_APP_OPENAI_API_KEY="clave-API sin comillas"
+    - PORT=5000
 
